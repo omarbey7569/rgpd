@@ -1,3 +1,17 @@
+# RGPD : enjeux et contraintes pour le métier de développeur
+
+Le Règlement Général sur la Protection des Données (RGPD) a été mis en place le 25 mai 2018 et couvre l'ensemble du territoire européen. Il encadre l'accès et l'usage des données personnelles pour les entreprises.
+
+## Qu'est-ce que le RGPD ?
+
+
+
+## Quels sont les enjeux autour du RGPD ?
+
+
+## Et pour les développeurs ?
+
+
 ## Welcome to GitHub Page
 
 You can use the [editor on GitHub](https://github.com/omarbey7569/rgpd/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.

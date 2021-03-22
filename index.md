@@ -1,51 +1,24 @@
 # RGPD : enjeux et contraintes pour le métier de développeur
 
 Le Règlement Général sur la Protection des Données (RGPD) a été mis en place le 25 mai 2018 et couvre l'ensemble du territoire européen. Il encadre l'accès et l'usage des données personnelles pour les entreprises.
+Pour rappel, une donnée personnelle est une information qui concerne une personne physique identifiée (ex : nom, prénom) ou identifiable (ex : numéro de téléphone, voix). En particulier, une donnée sensible touche à des informations qui peuvent donner lieu à une discrimination (ex : opinion politique, sensibilité religieuse).
 
 ## Qu'est-ce que le RGPD ?
 
+Pour comprendre le RGPD, il faut d'abord remonter dans le temps aux origines de la protection des données et expliquer comment l'avènement des géants du numérique a amené l'Union Européenne (UE) à mettre en place le RGPD.
 
+### L'histoire de la protection des données personnelles en Europe
+
+La première loi de protection des données personnelles en France date de 1978 : c'est la loi _Informatique et Libertés_ mise en place suite au scandale du projet SAFARI entrepris par l'INSEE quelques années auparavant. Ce projet avait pour but de regrouper les données personnelles récoltées par l'ensemble des administrations publiques françaises et avait été vivement critiqué car il constituait pour bon nombre de Français une atteinte grave aux libertés individuelles.
+
+
+
+### Les évolutions récentes par l'arrivée des géants du numérique
+### Les grands principes du RGPD
 
 ## Quels sont les enjeux autour du RGPD ?
 
 
 ## Et pour les développeurs ?
 
-
-## Welcome to GitHub Page
-
-You can use the [editor on GitHub](https://github.com/omarbey7569/rgpd/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
 [Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/omarbey7569/rgpd/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

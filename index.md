@@ -28,10 +28,22 @@ Puis, en 1995, l'UE prend en charge la législation sur la protection des donné
 
 ### L'arrivée des géants du numérique
 
+L'essor de grandes entreprises américaines dans les années 2000 comme Google remet en cause la politique européenne de protection des données personnelles.
+Contrairement à des pays européens comme la France qui sont attachés à la protection de la vie privée, la culture américaine prône, elle, d'autres valeurs comme la transparence qui est entre en contradiction. Ainsi, en 2009, Éric Schmidt, le PDG de Google déclare : « Seuls les criminels se soucient de protéger leurs données personnelles ». Les géants du numérique ne se soucient plus des règlements européens imposés par les CNILs européens et préfèrent payer des amendes dérisoires comparées à leurs chiffres d'affaire plutôt que de se soumettre à ces règlements.
 
+
+La communauté européenne tarde à réagir. Un sursaut d'orgueil se produit à la suite du scandale de l'audit de Facebook en 2011. À l'époque, un jeune étudiant autrichien, Max Schrems, fait valoir son droit d'accès et obtient un CD-ROM contenant l'ensemble de ses données personelles qui ont été collectées par le réseau social Facebook. Par un simple audit, il y relève 22 infractions au règlement européen et signale ces anomalies à la presse et aux autorités irlandaise (c'est l'Irlande que Facebook a choisi pour s'installer en Europe). Cette affaire suscite une vive polémique car elle montre l'inaction des pays européens face au comportement de grandes multinationales qui ne respectent par le principe de protection des données personnelles. Max Schrems pointe du doigt l'incompétence des CNILs européens qui sont pourtant financés par l'argent des contribuables. 
+
+C'est cette affaire qui va résoudre l'UE a mettre en place un nouveau règlement de protection des données. Max Schrems deviendra lui un des plus célèbres militants dans la lutte contre ces abus commis par les GAFAs. Il contribuera en 2015 à l'invalidation par la Cour de Justice de l'UE du _Safe Harbor_ qui permettait le transfert de données personnelles entre l'UE et les États-Unis.
 
 
 ### Les grands principes du RGPD
+
+Le RGPD a donc pour principal objectif de lutter contre l'exploitation dérégulée des données personnelles par les grandes entreprises du numérique. Elle reprend les grands principes de la loi _Informatique et Libertés_ datant de 1978 en y ajoutant le droit à la portabilité qui offre aux personnes la possibilité de récupérer une partie de leurs données dans un format ouvert et lisible par machine.
+
+Ce règlement s'applique à l'ensemble des entreprises établies sur le territoire de l’UE ou aux entreprises extra-européennes ciblant des résidents européens.
+Les amendes prévues peuvent s'élever jusqu'à 4% du chiffre d'affaire, ce qui équivaut à plus d'un milliard d'euros pour une entreprise comme Google.
+
 
 ## Quels sont les enjeux autour du RGPD ?
 

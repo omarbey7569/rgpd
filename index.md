@@ -1,6 +1,10 @@
 # RGPD : enjeux et contraintes pour le métier de développeur
 _12/03/2020, Lyon, France_
 
+<img src="/formulaire_cookies.jpg" alt="drawing" width="900"/>
+
+
+
 Le Règlement Général sur la Protection des Données (RGPD) a été mis en place le 25 mai 2018 et couvre l'ensemble du territoire européen. Il encadre l'accès et l'usage des données personnelles pour les entreprises.
 Pour rappel, une donnée personnelle est une information qui concerne une personne physique identifiée (ex : nom, prénom) ou identifiable (ex : numéro de téléphone, voix). En particulier, une donnée sensible touche à des informations qui peuvent donner lieu à une discrimination (ex : opinion politique, sensibilité religieuse).
 
@@ -32,6 +36,7 @@ Puis, en 1995, l'UE prend en charge la législation sur la protection des donné
 L'essor de grandes entreprises américaines dans les années 2000 comme Google remet en cause la politique européenne de protection des données personnelles.
 Contrairement à des pays européens comme la France qui sont attachés à la protection de la vie privée, la culture américaine prône, elle, d'autres valeurs comme la transparence qui est entre en contradiction. Ainsi, en 2009, Éric Schmidt, le PDG de Google déclare : « Seuls les criminels se soucient de protéger leurs données personnelles ». Les géants du numérique ne se soucient plus des règlements européens imposés par les CNILs européens et préfèrent payer des amendes dérisoires comparées à leurs chiffres d'affaire plutôt que de se soumettre à ces règlements.
 
+<span><img src='/images/max_schrems.jpg' height=150/><p>Max Schrems<p></span>
 
 La communauté européenne tarde à réagir. Un sursaut d'orgueil se produit à la suite du scandale de l'audit de Facebook en 2011. À l'époque, un jeune étudiant autrichien, Max Schrems, fait valoir son droit d'accès et obtient un CD-ROM contenant l'ensemble de ses données personelles qui ont été collectées par le réseau social Facebook. Par un simple audit, il y relève 22 infractions au règlement européen et signale ces anomalies à la presse et aux autorités irlandaise (c'est l'Irlande que Facebook a choisi pour s'installer en Europe). Cette affaire suscite une vive polémique car elle montre l'inaction des pays européens face au comportement de grandes multinationales qui ne respectent par le principe de protection des données personnelles. Max Schrems pointe du doigt l'incompétence des CNILs européens qui sont pourtant financés par l'argent des contribuables. 
 
@@ -58,11 +63,17 @@ En 2019, une amende d'un montant de 50 millions d'euros a été prononcée en Fr
 
 La France est le pays européen qui cumule le plus d'amendes liées au RGPD. Pour l'instant, l'augmentation du nombre de contrôles n'est pas spectaculaire mais le montant des amendes a été multiplié depuis la mise en application du RGPD et s'élève aujourd'hui à 275 000 euros en moyenne. Cette somme est significative pour une PME.
 
+<span><img src='/images/amendes_rgpd.jpg' width=400/><img src='/images/amendes_rgpd_europe.jpg' width=400/></span>
+
 De plus, la CNIL est particulièrement attentive au respect des règles pour les entreprises qui proposent des plateformes d'intermédiation et qui manipulent des données sensibles. En février 2021, une importante fuite de données de santé avait eu lieu en France mais aucun signalement n'avait été fait à la CNIL. Celle-ci sera donc particulièrement sévère avec les entreprises qui traitent des données médicales (ex : sites de prise de rendez-vous, sites de laboratoires ...).
 
 
 
 ## Et pour les développeurs ?
+
+<img src="/images/guide_developpeur.jpg" alt="drawing" width="900"/>
+
+
 
 La CNIL a mis en place dès 2018 un [guide du développeur](https://github.com/LINCnil/Guide-RGPD-du-developpeur) rédigé de manière collaborative sur _Github_. C'est un guide de bonnes pratiques qui explique les différents points d’attention à prendre en compte dans le déploiement d’applications respectueuses de la vie privée de ses utilisateurs.
 
@@ -80,5 +91,3 @@ Pour suivre ces principes, la CNIL conseille de tenir un registre des activités
 Un effort de programmation doit être consacré à l'identification et à l'anonymisation des données. La pseudonymisation peut servir d'alternative à l'anonymisation lorsque celle-ci est trop contraignante.
 
 Il faut aussi surveiller les durées de conservation des données.
-
-[Link](url) and ![Image](src)

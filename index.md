@@ -1,4 +1,5 @@
 # RGPD : enjeux et contraintes pour le métier de développeur
+_12/03/2020, Lyon, France_
 
 Le Règlement Général sur la Protection des Données (RGPD) a été mis en place le 25 mai 2018 et couvre l'ensemble du territoire européen. Il encadre l'accès et l'usage des données personnelles pour les entreprises.
 Pour rappel, une donnée personnelle est une information qui concerne une personne physique identifiée (ex : nom, prénom) ou identifiable (ex : numéro de téléphone, voix). En particulier, une donnée sensible touche à des informations qui peuvent donner lieu à une discrimination (ex : opinion politique, sensibilité religieuse).
@@ -45,11 +46,39 @@ Ce règlement s'applique à l'ensemble des entreprises établies sur le territoi
 Les amendes prévues peuvent s'élever jusqu'à 4% du chiffre d'affaire, ce qui équivaut à plus d'un milliard d'euros pour une entreprise comme Google.
 
 
+
 ## Quels sont les enjeux autour du RGPD ?
 
 ### Vis-à-vis des États-Unis
+
+En 2019, une amende d'un montant de 50 millions d'euros a été prononcée en France contre Google. On est encore très loin des 4% de chiffre d'affaires prévus par le RGPD. Les grands groupes américains sont dotés d'un arsenal juridique leur permettant d'échapper aux sanctions les plus lourdes. Cependant, une nouvelle tendance se dessine outre-Atlantique depuis l'invalidation du _Safe Harbor_ en 2015 puis du _Privacy Shield_ en 2020 qui permettaient le transfert vers les États-Unis des données collectées en Europe par les entreprises américaines. De plus, certains États américains comme la Californie se sont récemment dotés de lois sur la protection des données comparables au RGPD et le concept _Privacy by Design_ prend de plus en plus d'importance dans les entreprises informatiques.
+
+
 ### Pour les entreprises françaises
 
+La France est le pays européen qui cumule le plus d'amendes liées au RGPD. Pour l'instant, l'augmentation du nombre de contrôles n'est pas spectaculaire mais le montant des amendes a été multiplié depuis la mise en application du RGPD et s'élève aujourd'hui à 275 000 euros en moyenne. Cette somme est significative pour une PME.
+
+De plus, la CNIL est particulièrement attentive au respect des règles pour les entreprises qui proposent des plateformes d'intermédiation et qui manipulent des données sensibles. En février 2021, une importante fuite de données de santé avait eu lieu en France mais aucun signalement n'avait été fait à la CNIL. Celle-ci sera donc particulièrement sévère avec les entreprises qui traitent des données médicales (ex : sites de prise de rendez-vous, sites de laboratoires ...).
+
+
+
 ## Et pour les développeurs ?
+
+La CNIL a mis en place dès 2018 un [guide du développeur](https://github.com/LINCnil/Guide-RGPD-du-developpeur) rédigé de manière collaborative sur _Github_. C'est un guide de bonnes pratiques qui explique les différents points d’attention à prendre en compte dans le déploiement d’applications respectueuses de la vie privée de ses utilisateurs.
+
+Les 6 grands principes du RGPD qu'un développeur doit avoir en tête sont :
+
+  - utiliser un minimum de données personnelles : ceci implique d'identifier toutes les données personnelles utilisées et de se demander si elles sont nécessaires
+  - faire preuve de transparence : documenter le plus possible le traitement de données
+  - respecter le droit des personnes : en particulier le droit à la portabilité (quand un utilisateur demande la récupération de ses données dans un format lisible par une machine)
+  - maîtrise des données
+  - identification des risques
+  - sécurisation des données
+
+Pour suivre ces principes, la CNIL conseille de tenir un registre des activités de traitements (obligatoire) et de nommer un délégué à la protection des données (DPO) (facultatif).
+
+Un effort de programmation doit être consacré à l'identification et à l'anonymisation des données. La pseudonymisation peut servir d'alternative à l'anonymisation lorsque celle-ci est trop contraignante.
+
+Il faut aussi surveiller les durées de conservation des données.
 
 [Link](url) and ![Image](src)

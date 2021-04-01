@@ -15,7 +15,7 @@ Pour rappel, une donnée personnelle est une information qui concerne une person
 Pour comprendre le RGPD, il faut d'abord remonter dans le temps aux origines de la protection des données et expliquer comment l'avènement des géants du numérique a amené l'Union Européenne (UE) à mettre en place le RGPD.
 
 
-### L'histoire de la protection des données personnelles en Europe
+### L'histoire de la protection des données personnelles en Europe [1]
 
 La première loi de protection des données personnelles en France date de 1978 : c'est la loi _Informatique et Libertés_ mise en place suite au scandale du projet SAFARI entrepris par l'INSEE quelques années auparavant. Ce projet avait pour but de regrouper les données personnelles récoltées par l'ensemble des administrations publiques françaises et avait été vivement critiqué car il constituait pour bon nombre de Français une atteinte grave aux libertés individuelles.
 Cette loi acte la création de la Commission Nationale de l'Informatique et des Libertés (CNIL), la définition dans la loi d'une donnée personnelle et la création de nouveaux droits :
@@ -31,7 +31,7 @@ Ces droits constituent aujourd'hui les principes de bases du RGPD.
 Puis, en 1995, l'UE prend en charge la législation sur la protection des données avec la directive 95/46/E. L'objectif de cette démarche est de prendre en compte l'apparition récente de la marchandisation des données. L'exploitation des données n'étant plus seulement réservée aux administrations publiques mais aussi réalisée par les entreprises, il faut maintenant prévoir un encadrement plus strict avec éventuellement des sanctions : interdiction d'exploitation de données personnelles et amendes pouvant aller jusqu'à 150 000 euros.
 
 
-### L'arrivée des géants du numérique
+### L'arrivée des géants du numérique [2]
 
 L'essor de grandes entreprises américaines dans les années 2000 comme Google remet en cause la politique européenne de protection des données personnelles.
 Contrairement à des pays européens comme la France qui sont attachés à la protection de la vie privée, la culture américaine prône, elle, d'autres valeurs comme la transparence qui est entre en contradiction. Ainsi, en 2009, Éric Schmidt, le PDG de Google déclare : « Seuls les criminels se soucient de protéger leurs données personnelles ». Les géants du numérique ne se soucient plus des règlements européens imposés par les CNILs européens et préfèrent payer des amendes dérisoires comparées à leurs chiffres d'affaire plutôt que de se soumettre à ces règlements.
@@ -40,7 +40,7 @@ Contrairement à des pays européens comme la France qui sont attachés à la pr
 
 La communauté européenne tarde à réagir. Un sursaut d'orgueil se produit à la suite du scandale de l'audit de Facebook en 2011. À l'époque, un jeune étudiant autrichien, Max Schrems, fait valoir son droit d'accès et obtient un CD-ROM contenant l'ensemble de ses données personelles qui ont été collectées par le réseau social Facebook. Par un simple audit, il y relève 22 infractions au règlement européen et signale ces anomalies à la presse et aux autorités irlandaise (c'est l'Irlande que Facebook a choisi pour s'installer en Europe). Cette affaire suscite une vive polémique car elle montre l'inaction des pays européens face au comportement de grandes multinationales qui ne respectent par le principe de protection des données personnelles. Max Schrems pointe du doigt l'incompétence des CNILs européens qui sont pourtant financés par l'argent des contribuables. 
 
-C'est cette affaire qui va résoudre l'UE a mettre en place un nouveau règlement de protection des données. Max Schrems deviendra lui un des plus célèbres militants dans la lutte contre ces abus commis par les GAFAs. Il contribuera en 2015 à l'invalidation par la Cour de Justice de l'UE du _Safe Harbor_ qui permettait le transfert de données personnelles entre l'UE et les États-Unis.
+C'est cette affaire qui va résoudre l'UE a mettre en place un nouveau règlement de protection des données. Max Schrems deviendra lui un des plus célèbres militants dans la lutte contre ces abus commis par les GAFAs [3]. Il contribuera en 2015 à l'invalidation par la Cour de Justice de l'UE du _Safe Harbor_ qui permettait le transfert de données personnelles entre l'UE et les États-Unis.
 
 
 ### Les grands principes du RGPD
@@ -56,7 +56,7 @@ Les amendes prévues peuvent s'élever jusqu'à 4% du chiffre d'affaire, ce qui 
 
 ### Vis-à-vis des États-Unis
 
-En 2019, une amende d'un montant de 50 millions d'euros a été prononcée en France contre Google. On est encore très loin des 4% de chiffre d'affaires prévus par le RGPD. Les grands groupes américains sont dotés d'un arsenal juridique leur permettant d'échapper aux sanctions les plus lourdes. Cependant, une nouvelle tendance se dessine outre-Atlantique depuis l'invalidation du _Safe Harbor_ en 2015 puis du _Privacy Shield_ en 2020 qui permettaient le transfert vers les États-Unis des données collectées en Europe par les entreprises américaines. De plus, certains États américains comme la Californie se sont récemment dotés de lois sur la protection des données comparables au RGPD et le concept _Privacy by Design_ prend de plus en plus d'importance dans les entreprises informatiques.
+En 2019, une amende d'un montant de 50 millions d'euros a été prononcée en France contre Google [4]. On est encore très loin des 4% de chiffre d'affaires prévus par le RGPD. Les grands groupes américains sont dotés d'un arsenal juridique leur permettant d'échapper aux sanctions les plus lourdes. Cependant, une nouvelle tendance se dessine outre-Atlantique depuis l'invalidation du _Safe Harbor_ en 2015 puis du _Privacy Shield_ en 2020 [5] qui permettaient le transfert vers les États-Unis des données collectées en Europe par les entreprises américaines. De plus, certains États américains comme la Californie se sont récemment dotés de lois sur la protection des données comparables au RGPD [6] et le concept _Privacy by Design_ prend de plus en plus d'importance dans les entreprises informatiques.
 
 
 ### Pour les entreprises françaises
@@ -65,7 +65,7 @@ La France est le pays européen qui cumule le plus d'amendes liées au RGPD. Pou
 
 <span><img src='https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_500/https://www.gdpr-rating.eu/wp-content/uploads/2020/02/imagge-500x289.jpg' width=300/><img src='https://www.numerama.com/content/uploads/2020/01/rgpd-amende-europe.png' width=300/></span>
 
-De plus, la CNIL est particulièrement attentive au respect des règles pour les entreprises qui proposent des plateformes d'intermédiation et qui manipulent des données sensibles. En février 2021, une importante fuite de données de santé avait eu lieu en France mais aucun signalement n'avait été fait à la CNIL. Celle-ci sera donc particulièrement sévère avec les entreprises qui traitent des données médicales (ex : sites de prise de rendez-vous, sites de laboratoires ...).
+De plus, la CNIL est particulièrement attentive au respect des règles pour les entreprises qui proposent des plateformes d'intermédiation et qui manipulent des données sensibles. En février 2021, une importante fuite de données de santé avait eu lieu en France mais aucun signalement n'avait été fait à la CNIL [7]. Celle-ci sera donc particulièrement sévère avec les entreprises qui traitent des données médicales (ex : sites de prise de rendez-vous, sites de laboratoires ...).
 
 
 
@@ -91,3 +91,21 @@ Pour suivre ces principes, la CNIL conseille de tenir un registre des activités
 Un effort de programmation doit être consacré à l'identification et à l'anonymisation des données. La pseudonymisation peut servir d'alternative à l'anonymisation lorsque celle-ci est trop contraignante.
 
 Il faut aussi surveiller les durées de conservation des données.
+
+
+
+## Bibliographie
+
+[[1]](https://zestedesavoir.com/tutoriels/2529/le-rgpd-nouveau-droit-de-la-protection-des-donnees-personnelles/historique-et-application-des-lois-concernant-les-donnees-personnelles/) _Historique et application des lois concernant les données personnelles_
+
+[[2]](https://www.donneespersonnelles.fr/histoire-du-rgpd) _Comprendre l'histoire du RGPD_
+
+[[3]](https://fr.wikipedia.org/wiki/Max_Schrems) _Max Schrems_
+
+[[4]](https://www.numerama.com/politique/457010-la-cnil-inflige-a-google-une-amende-record-de-50-millions-deuros-pour-violation-du-rgpd.html) _Violation du RGPD par Google : la sanction de 50 millions d’euros confirmée par le Conseil d’État_
+
+[[5]](https://www.numerama.com/tech/637073-la-justice-europeenne-sabre-le-transfert-de-vos-donnees-vers-les-usa-a-cause-de-la-surveillance-de-masse.html) _La justice européenne sabre le transfert de vos données vers les USA à cause de la surveillance de masse_
+
+[[6]](https://www.haas-avocats.com/actualite-juridique/vers-un-rgpd-americain/) _Vers un RGPD américain_
+
+[[7]](https://www.numerama.com/tech/691359-fuite-de-donnees-medicales-de-500-000-francais-la-cnil-na-pas-ete-alertee.html) _Fuite de données médicales de 500 000 Français : la CNIL n’a pas été alertée_

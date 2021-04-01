@@ -36,7 +36,7 @@ Puis, en 1995, l'UE prend en charge la législation sur la protection des donné
 L'essor de grandes entreprises américaines dans les années 2000 comme Google remet en cause la politique européenne de protection des données personnelles.
 Contrairement à des pays européens comme la France qui sont attachés à la protection de la vie privée, la culture américaine prône, elle, d'autres valeurs comme la transparence qui est entre en contradiction. Ainsi, en 2009, Éric Schmidt, le PDG de Google déclare : « Seuls les criminels se soucient de protéger leurs données personnelles ». Les géants du numérique ne se soucient plus des règlements européens imposés par les CNILs européens et préfèrent payer des amendes dérisoires comparées à leurs chiffres d'affaire plutôt que de se soumettre à ces règlements.
 
-<span><img src='https://pbs.twimg.com/profile_images/814193455048126465/SwzQpcP-.jpg' height=150/><p>Max Schrems<p></span>
+<span><img src='https://pbs.twimg.com/profile_images/814193455048126465/SwzQpcP-.jpg' height=150/>Max Schrems</span>
 
 La communauté européenne tarde à réagir. Un sursaut d'orgueil se produit à la suite du scandale de l'audit de Facebook en 2011. À l'époque, un jeune étudiant autrichien, Max Schrems, fait valoir son droit d'accès et obtient un CD-ROM contenant l'ensemble de ses données personelles qui ont été collectées par le réseau social Facebook. Par un simple audit, il y relève 22 infractions au règlement européen et signale ces anomalies à la presse et aux autorités irlandaise (c'est l'Irlande que Facebook a choisi pour s'installer en Europe). Cette affaire suscite une vive polémique car elle montre l'inaction des pays européens face au comportement de grandes multinationales qui ne respectent par le principe de protection des données personnelles. Max Schrems pointe du doigt l'incompétence des CNILs européens qui sont pourtant financés par l'argent des contribuables. 
 
@@ -63,7 +63,7 @@ En 2019, une amende d'un montant de 50 millions d'euros a été prononcée en Fr
 
 La France est le pays européen qui cumule le plus d'amendes liées au RGPD. Pour l'instant, l'augmentation du nombre de contrôles n'est pas spectaculaire mais le montant des amendes a été multiplié depuis la mise en application du RGPD et s'élève aujourd'hui à 275 000 euros en moyenne. Cette somme est significative pour une PME.
 
-<span><img src='https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_500/https://www.gdpr-rating.eu/wp-content/uploads/2020/02/imagge-500x289.jpg' width=400/><img src='https://www.numerama.com/content/uploads/2020/01/rgpd-amende-europe.png' width=400/></span>
+<span><img src='https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_500/https://www.gdpr-rating.eu/wp-content/uploads/2020/02/imagge-500x289.jpg' width=300/><img src='https://www.numerama.com/content/uploads/2020/01/rgpd-amende-europe.png' width=300/></span>
 
 De plus, la CNIL est particulièrement attentive au respect des règles pour les entreprises qui proposent des plateformes d'intermédiation et qui manipulent des données sensibles. En février 2021, une importante fuite de données de santé avait eu lieu en France mais aucun signalement n'avait été fait à la CNIL. Celle-ci sera donc particulièrement sévère avec les entreprises qui traitent des données médicales (ex : sites de prise de rendez-vous, sites de laboratoires ...).
 
